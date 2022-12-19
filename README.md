@@ -23,6 +23,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+ 
 
 <div align="center">
 <br><p align="center"><b>Contagem de visitantes</b></p>  
@@ -30,3 +31,4 @@
 <br>
 </div>
   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunnobeloti&bg_color=0d1117&color=ffffff&line=4f4f4f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -1,6 +1,6 @@
 ### Olá! Sou o Brunno Beloti!
 ##
-- 📚 Estudante de Ciências da Computação - UNIFRAN (5º Período)
+- 📚 Estudante de Ciências da Computação - UNIFRAN (6º Período)
 - 💻 Estudando para Back-End
 ##
 
